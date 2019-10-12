@@ -142,3 +142,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Ishank Jain](https://github.com/ishank99)
+ - Place: Surat, Gujarat, India
+ - Bio: Public Speaker, Machine learning enthusiast
+ - GitHub: [ishank99](https://github.com/ishank99)
